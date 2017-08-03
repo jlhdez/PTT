@@ -1,0 +1,3 @@
+# Folders to exclude:
+./windows/src/TestProgram/Debug/
+./windows/src/TestProgram/TestProgram/Debug\
